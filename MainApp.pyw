@@ -1,4 +1,4 @@
-# coding: utf8
+# encoding: utf8
 import os
 from tkinter import Tk
 
